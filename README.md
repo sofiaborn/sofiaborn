@@ -1,5 +1,3 @@
-## Sofia B. M. Magalhães
-
 Physics undergraduate at the Federal University of Rio Grande (FURG), working on robotics and autonomous systems. Member of the AI division of the FBOT Robotics Team, where I develop the task-planning system for our @WORK robot — the component responsible for deciding the order and execution of tasks during a competition run.
 
 ### Current work
